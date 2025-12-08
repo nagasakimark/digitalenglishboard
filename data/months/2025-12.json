@@ -1,0 +1,1756 @@
+{
+  "items": [
+    {
+      "id": "item-1765018670968",
+      "type": "calendar",
+      "position": {
+        "x": 24.39039036370152,
+        "y": 99.64326913676803
+      },
+      "rotation": 3.5869134372576603,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "calendar",
+      "color": "#FFF740",
+      "content": {
+        "title": "Calendar",
+        "month": "2025-12",
+        "events": {
+          "10": {
+            "title": "Nobel Prize Day",
+            "description": "Nobel Prize Day is on December 10th. It celebrates[称える] the Nobel Prizes[賞] given to people who help the world in important[重要] ways[方法].\n\nAlfred Nobel was a scientist[科学者] from Sweden. He used his money for the prizes. The prizes are for:\n\nPeace[平和]\n\nScience[科学]\n\nMedicine[医学]\n\nLiterature[文学]\n\nEconomics[経済学]\n\nIt is a day to think about people who help the world.",
+            "images": [
+              "assets/images/extracted/img_1765233473209_2687.jpg"
+            ],
+            "image": "assets/images/extracted/img_1765233473211_6656.jpg"
+          },
+          "14": {
+            "title": "Hanukkah",
+            "description": "Hanukkah is a Jewish[ユダヤ人の] celebration that begins on December 14th. It lasts for eight days[8日間].\n\nIt remembers a miracle[奇跡] from a long time ago. There was only a little oil[油], but the light stayed on for eight days.\n\nFamilies light a special candle holder[ろうそく立て] called a menorah[メノーラー]. Each night, they light one more candle.\n\nPeople eat special foods, play a small spinning toy[回るおもちゃ] called a dreidel[ドレイドル], and spend time with family[家族].\n\nHanukkah is a time of light[光], hope[希望], and joy[喜び].",
+            "images": [
+              "assets/images/extracted/img_1765233473212_7064.jpg",
+              "assets/images/extracted/img_1765233473214_5692.jpg"
+            ],
+            "image": "assets/images/extracted/img_1765233473215_1432.jpg"
+          },
+          "16": {
+            "title": "Las Posadas",
+            "description": "Las Posadas is a celebration that starts on December 16th. It is celebrated in Mexico[メキシコ].\n\nIt remembers the story[物語] of Mary[マリア] and Joseph[ヨセフ] looking for a place to stay before Jesus was born.\n\nFamilies and friends walk together and sing special[特別な] songs. Children often hit a piñata[ピニャータ], which is a colorful shape filled with candy[お菓子].\n\nLas Posadas is a time for friends[友だち], family[家族], and fun[楽しい時間].",
+            "images": [
+              "assets/images/extracted/img_1765233473217_7791.jpg"
+            ],
+            "image": "assets/images/extracted/img_1765233473219_8458.jpg"
+          },
+          "22": {
+            "title": "Dongzhi Festival",
+            "description": "The Dongzhi Festival is on December 22nd. It is a celebration from China[中国].\n\nDongzhi is the day with the shortest[一番短い] daylight of the year. After this day, the sunlight[日光] becomes longer again.\n\nFamilies come together and eat special[特別な] foods. In China, many people eat tangyuan[湯円], which are sweet rice balls. In Taiwan, people also eat dumplings[餃子].\n\nThe Dongzhi Festival is a time for family[家族], warmth[あたたかさ], and good health[健康].",
+            "images": [
+              "assets/images/extracted/img_1765233473221_6625.webp"
+            ],
+            "image": "assets/images/extracted/img_1765233473222_444.webp"
+          },
+          "24": {
+            "title": "Christmas Eve",
+            "description": "Christmas Eve is on December 24th. It is the night before Christmas[クリスマス].\n\nMany families spend time together and eat a special[特別な] dinner. Some people go to church[教会]. Children often get excited because Santa Claus[サンタクロース] may bring presents[プレゼント].\n\nPeople enjoy lights, music[音楽], and a warm holiday feeling[休日の気分].\n\nChristmas Eve is a time for relaxing[リラックス] with family[家族].",
+            "images": [
+              "assets/images/extracted/img_1765233473223_6396.jpg"
+            ],
+            "image": "assets/images/extracted/img_1765233473225_3645.jpg"
+          },
+          "25": {
+            "title": "Christmas Day",
+            "description": "Christmas Day is on December 25th. It celebrates the birth[誕生] of Jesus[イエス] for many Christians[キリスト教徒].\n\nChildren often open presents[プレゼント] in the morning. Families eat a special[特別な] meal together. Many people enjoy relaxing[リラックス], watching movies[映画], or spending time with family[家族] and friends[友だち].\n\nChristmas Day is a time of joy[喜び], sharing[分け合い], and warm feelings[あたたかい気持ち].",
+            "images": [
+              "assets/images/extracted/img_1765233473227_1953.jpg",
+              "assets/images/extracted/img_1765233473229_536.jpg",
+              "assets/images/extracted/img_1765233473230_4689.jpg",
+              "assets/images/extracted/img_1765233473232_2587.jpg"
+            ],
+            "image": "assets/images/extracted/img_1765233473233_3359.jpg"
+          },
+          "26": {
+            "title": "Boxing Day",
+            "description": "Boxing Day is on December 26th. It is celebrated in the UK[イギリス], Canada[カナダ], Australia[オーストラリア], and other countries.\n\nA long time ago, rich[金持ち] people gave boxes[箱] of food or money to people who needed help.\n\nToday, Boxing Day is a relaxing day[休む日]. Many people visit family[家族] or friends[友だち], eat leftover[残り物] Christmas food, or go shopping[買い物] because stores have big sales[セール].\n\nBoxing Day is a day to rest[休む] or have fun[楽しむ].",
+            "images": [
+              "assets/images/extracted/img_1765233473235_2385.jpg"
+            ],
+            "image": "assets/images/extracted/img_1765233473235_5149.jpg"
+          },
+          "31": {
+            "title": "New Year's Eve",
+            "description": "New Year’s Eve is on December 31st. It is the last day of the year. Many people have parties[パーティー], eat a special[特別な] dinner, and watch fireworks[花火]. Some families wait together until midnight[真夜中].\n\nIn many countries, New Year’s Eve is a fun night with friends[友だち], music[音楽], and celebration[お祝い].",
+            "images": [
+              "assets/images/extracted/img_1765233473237_5626.webp",
+              "assets/images/extracted/img_1765233473239_9590.jpg",
+              "assets/images/extracted/img_1765233473243_8715.png",
+              "assets/images/extracted/img_1765233473248_4284.jpg"
+            ],
+            "image": "assets/images/extracted/img_1765233473251_2933.webp"
+          },
+          "01": {
+            "title": "World AIDS Day",
+            "description": "World AIDS Day is a day to learn about HIV/AIDS[エイズウイルス／エイズ] and to support people who live with it. Many people wear a red ribbon[赤いリボン] to show care[思いやり] and understanding[理解].",
+            "images": [
+              "assets/images/extracted/img_1765233473252_4215.png"
+            ],
+            "image": "assets/images/extracted/img_1765233473253_6083.png"
+          },
+          "02": {
+            "title": "International Day for the Abolition of Slavery",
+            "description": "This day teaches about the history[歴史] of slavery[奴隷制度] and reminds[思い出させる] us that some people around the world are still treated unfairly[不公平に] or forced to work. It teaches us to respect freedom[自由] and human rights[人権].",
+            "images": [
+              "assets/images/extracted/img_1765233473254_7111.webp"
+            ],
+            "image": "assets/images/extracted/img_1765233473255_9017.webp"
+          },
+          "03": {
+            "title": "International Day of Persons with Disabilities",
+            "description": "This day helps people learn about disabilities[障害] and how to make the world more accessible[利用しやすい]. It reminds us to treat everyone with kindness[優しさ] and respect[尊重].\n\n\n下の画像に、ユニバーサルデザインがいくつ見つかりますか？",
+            "images": [
+              "assets/images/extracted/img_1765233473256_3623.webp"
+            ],
+            "image": "assets/images/extracted/img_1765233473257_8568.webp"
+          },
+          "05": {
+            "title": "Krampusnacht / Krampus Night",
+            "description": "Krampus Night is celebrated in Austria[オーストリア] and some other European countries. Krampus[クランプス] is a scary creature[怖い生き物] from old stories. People wear costumes and walk in the streets. It is part of traditional[伝統的] winter celebrations before Christmas.",
+            "images": [
+              "assets/images/extracted/img_1765233473258_9739.jpg"
+            ],
+            "image": "assets/images/extracted/img_1765233473259_9514.jpg"
+          },
+          "08": {
+            "title": "Bodhi Day",
+            "description": "Bodhi Day is the day Buddhists remember when the Buddha became very wise.\nHe sat under a big tree called the Bodhi Tree, thought deeply about the world, and learned how to live a peaceful and kind life.\n\n菩提日は、仏教徒が仏陀が深い悟りを得た日を記念する日です。\n仏陀は菩提樹と呼ばれる大きな木の根元に座り、世界の真理について深く思索を重ね、平和で慈愛に満ちた生き方を悟りました。",
+            "images": [
+              "assets/images/extracted/img_1765233473261_6283.jpg"
+            ],
+            "image": "assets/images/extracted/img_1765233473262_7047.jpg"
+          }
+        }
+      },
+      "createdAt": "2025-12-06T10:57:50.968Z"
+    },
+    {
+      "id": "item-1765021368328",
+      "type": "quiz",
+      "position": {
+        "x": 702.6476298817674,
+        "y": 535.3160635779312
+      },
+      "rotation": -3.0913627388469465,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "quiz",
+      "color": "#FFF740",
+      "content": {
+        "title": "Christmas Quiz",
+        "questions": [
+          {
+            "question": "What color is Santa's suit?",
+            "options": [
+              "Blue",
+              "Purple",
+              "Red",
+              "Green"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "question": "What is put on top of a Christmas tree?",
+            "options": [
+              "Present",
+              "Santa",
+              "Jesus",
+              "Star"
+            ],
+            "correctAnswer": 3
+          },
+          {
+            "question": "What animal pulls Santa's Sleigh?",
+            "options": [
+              "Horse",
+              "Reindeer",
+              "Bear",
+              "Rabbit"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "Where does Santa live?",
+            "options": [
+              "South Pole",
+              "North Pole",
+              "Sapporo",
+              "The Moon"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "question": "What is the night before Christmas called?",
+            "options": [
+              "Christmas Eve",
+              "Christmas First",
+              "Not Christmas",
+              "Christmas Night"
+            ],
+            "correctAnswer": 0
+          },
+          {
+            "question": "What drink do people leave for Santa?",
+            "options": [
+              "Starbucks Latte",
+              "Hot Chocolate",
+              "Milk",
+              "Pocari Sweat"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "question": "What is a famous Christmas ballet (バレエ)?",
+            "options": [
+              "Swan Lake",
+              "The Nutcracker",
+              "Moon Dance",
+              "Snow White"
+            ],
+            "correctAnswer": 1
+          }
+        ]
+      },
+      "createdAt": "2025-12-06T11:42:48.329Z"
+    },
+    {
+      "id": "item-1765022699201",
+      "type": "countdown",
+      "position": {
+        "x": 538.7836365413833,
+        "y": 246.85904010285677
+      },
+      "rotation": 1.5416784131164665,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "countdown",
+      "color": "#FFF740",
+      "content": {
+        "title": "Christmas Countdown!",
+        "targetDate": "2025-12-25T00:00:00.000Z",
+        "description": ""
+      },
+      "createdAt": "2025-12-06T12:04:59.201Z"
+    },
+    {
+      "id": "item-1765022730449",
+      "type": "flashcard",
+      "position": {
+        "x": 834.4008685940439,
+        "y": 342.7097438358557
+      },
+      "rotation": 1.9120730428189079,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "flashcard",
+      "color": "#FFF740",
+      "content": {
+        "title": "Flashcard",
+        "front": "Snow",
+        "back": "雪"
+      },
+      "createdAt": "2025-12-06T12:05:30.450Z"
+    },
+    {
+      "id": "item-1765022771467",
+      "type": "weather",
+      "position": {
+        "x": 1105.8834389451242,
+        "y": 330.4360300630709
+      },
+      "rotation": 2.773587836328155,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "weather",
+      "color": "#FFF740",
+      "content": {
+        "title": "Weather Update",
+        "condition": "sunny",
+        "temperature": 6,
+        "temperatureValue": 6,
+        "location": "Nagasaki",
+        "lastUpdated": "2025-12-08T22:05:29.794Z"
+      },
+      "createdAt": "2025-12-06T12:06:11.467Z"
+    },
+    {
+      "id": "item-1765082803771",
+      "type": "local-video",
+      "position": {
+        "x": 387.44425385934824,
+        "y": 471.79416809605505
+      },
+      "rotation": -1.9769333685088633,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "local-video",
+      "color": "#FFF740",
+      "content": {
+        "title": "Christmas in London",
+        "filename": "london.mp4",
+        "description": ""
+      },
+      "createdAt": "2025-12-07T04:46:43.772Z",
+      "width": 260
+    },
+    {
+      "id": "item-1765088825273",
+      "type": "local-video",
+      "position": {
+        "x": 58.24528301886775,
+        "y": 1099.7324185248692
+      },
+      "rotation": -0.41393291377309716,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "local-video",
+      "color": "#FFF740",
+      "content": {
+        "title": "Christmas Formal Dinner",
+        "filename": "christmasdinner.mp4",
+        "description": "イギリスの大学で、私は日本からの交換留学生をサポートしていました。これは私たちが一緒に参加したクリスマス・フォーマルディナーの様子を収めた動画です。いつか留学してみませんか？"
+      },
+      "createdAt": "2025-12-07T06:27:05.274Z"
+    },
+    {
+      "id": "item-1765090212494",
+      "type": "image",
+      "position": {
+        "x": 543.2572898799316,
+        "y": 1033.3405282681535
+      },
+      "rotation": 1.2182465826563948,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "image",
+      "color": "#FFF740",
+      "content": {
+        "title": "My hometown[故郷] in the snow.",
+        "text": "Click to edit...",
+        "imageUrl": "assets/images/extracted-1765113074792-0.jpeg"
+      },
+      "createdAt": "2025-12-07T06:50:12.494Z",
+      "width": 310
+    },
+    {
+      "id": "item-1765090635022",
+      "type": "youtube-playlist",
+      "position": {
+        "x": 1010.6963979416774,
+        "y": 75.81818181818147
+      },
+      "rotation": -4.557411635487002,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "youtube-playlist",
+      "color": "#FFF740",
+      "content": {
+        "title": "Christmas Pop",
+        "playlist": [
+          "https://www.youtube.com/watch?v=yXQViqx6GMY",
+          "https://www.youtube.com/watch?v=nlR0MkrRklg",
+          "https://www.youtube.com/watch?v=E8gmARGvPlI",
+          "https://www.youtube.com/watch?v=J_QGZspO4gg",
+          "https://www.youtube.com/watch?v=DkXIJe8CaIc"
+        ]
+      },
+      "createdAt": "2025-12-07T06:57:15.022Z"
+    },
+    {
+      "id": "item-1765099619589",
+      "type": "image",
+      "position": {
+        "x": 928.689536878213,
+        "y": 1226.2572898799315
+      },
+      "rotation": 2.7853643880746217,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "image",
+      "color": "#FFF740",
+      "content": {
+        "title": "Christmas present spending[支出]",
+        "text": "Click to edit...",
+        "imageUrl": "assets/images/extracted-1765113074793-1.png"
+      },
+      "createdAt": "2025-12-07T09:26:59.589Z",
+      "width": 400
+    },
+    {
+      "id": "item-1765099727349",
+      "type": "local-video",
+      "position": {
+        "x": 34.81475128644939,
+        "y": 450.70668953687823
+      },
+      "rotation": 3.640065824729927,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "local-video",
+      "color": "#FFF740",
+      "content": {
+        "title": "Things to do in London",
+        "filename": "london2.mp4",
+        "description": ""
+      },
+      "createdAt": "2025-12-07T09:28:47.349Z",
+      "width": 310
+    },
+    {
+      "id": "item-1765099789589",
+      "type": "local-video",
+      "position": {
+        "x": 68.7890222984561,
+        "y": 1526.1681407450824
+      },
+      "rotation": 1.591834099118521,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "local-video",
+      "color": "#FFF740",
+      "content": {
+        "title": "Scotland Christmas VLOG",
+        "filename": "edinburgh.mp4",
+        "description": ""
+      },
+      "createdAt": "2025-12-07T09:29:49.589Z",
+      "width": 300
+    },
+    {
+      "id": "item-1765099919892",
+      "type": "local-video",
+      "position": {
+        "x": 477.65180102915986,
+        "y": 1468.7634340845707
+      },
+      "rotation": -2.8945900023753457,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "local-video",
+      "color": "#FFF740",
+      "content": {
+        "title": "Scotland Christmas vibes[ 雰囲気(スラング)]",
+        "filename": "edinburgh2.mp4",
+        "description": ""
+      },
+      "createdAt": "2025-12-07T09:31:59.893Z",
+      "width": 320
+    },
+    {
+      "id": "item-1765100004347",
+      "type": "flashcard",
+      "position": {
+        "x": 770.533447684391,
+        "y": 868.9416809605515
+      },
+      "rotation": 1.4164515661297186,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "flashcard",
+      "color": "#FFF740",
+      "content": {
+        "title": "Flashcard",
+        "front": "Decorate",
+        "back": "飾る"
+      },
+      "createdAt": "2025-12-07T09:33:24.347Z"
+    },
+    {
+      "id": "item-1765100156618",
+      "type": "local-video",
+      "position": {
+        "x": 1047.0137221269276,
+        "y": 648.6946826758136
+      },
+      "rotation": -4.617647438070078,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "local-video",
+      "color": "#FFF740",
+      "content": {
+        "title": "Grinch",
+        "filename": "grinchmog.mp4",
+        "description": ""
+      },
+      "createdAt": "2025-12-07T09:35:56.618Z",
+      "width": 270
+    },
+    {
+      "id": "item-1765100303371",
+      "type": "flashcard",
+      "position": {
+        "x": 820.9090909090905,
+        "y": 1985.1721821919123
+      },
+      "rotation": -4.578285814307581,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "flashcard",
+      "color": "#FFF740",
+      "content": {
+        "title": "Flashcard",
+        "front": "tradition",
+        "back": "伝統"
+      },
+      "createdAt": "2025-12-07T09:38:23.371Z"
+    },
+    {
+      "id": "item-1765102450663",
+      "type": "local-video",
+      "position": {
+        "x": 26.614065180102738,
+        "y": 2313.4339622641487
+      },
+      "rotation": -3.954884226277607,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "local-video",
+      "color": "#FFF740",
+      "content": {
+        "title": "My favorite[一番好きな] Christmas market is Cologne, Germany[ドイツ]!",
+        "filename": "market.mp4",
+        "description": "I took[撮った] this video 3 years ago[前] in Germany. The tree is so big! I love Christmas markets."
+      },
+      "createdAt": "2025-12-07T10:14:10.663Z",
+      "width": 270
+    },
+    {
+      "id": "item-1765102780545",
+      "type": "image",
+      "position": {
+        "x": 333.55403087478555,
+        "y": 2314.605377125287
+      },
+      "rotation": 4.5642307350652604,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "image",
+      "color": "#FFF740",
+      "content": {
+        "title": "Cologne Christmas market",
+        "text": "Click to edit...",
+        "imageUrl": "assets/images/extracted-1765113074793-2.jpeg"
+      },
+      "createdAt": "2025-12-07T10:19:40.545Z",
+      "width": 380
+    },
+    {
+      "id": "item-1765103025132",
+      "type": "image",
+      "position": {
+        "x": 731.8730703259014,
+        "y": 2378.3365079019272
+      },
+      "rotation": 0.19541100289434343,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "image",
+      "color": "#FFF740",
+      "content": {
+        "title": "My favorite Christmas market food is sausages! In Germany, they call[と呼ぶ] it bratwurst.",
+        "text": "Click to edit...",
+        "imageUrl": "assets/images/extracted-1765113074793-3.jpeg"
+      },
+      "createdAt": "2025-12-07T10:23:45.133Z",
+      "width": 300
+    },
+    {
+      "id": "item-1765103131529",
+      "type": "flashcard",
+      "position": {
+        "x": 99.2487135505962,
+        "y": 2135.1276014795826
+      },
+      "rotation": 2.5682049549696497,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "flashcard",
+      "color": "#FFF740",
+      "content": {
+        "title": "Flashcard",
+        "front": "reindeer",
+        "back": "トナカイ"
+      },
+      "createdAt": "2025-12-07T10:25:31.529Z"
+    },
+    {
+      "id": "item-1765103548150",
+      "type": "link",
+      "position": {
+        "x": 827.938250428815,
+        "y": 1761.1763007293225
+      },
+      "rotation": -1.5657474498907664,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "link",
+      "color": "#FFF740",
+      "content": {
+        "title": "Lyrics Training",
+        "text": "このウェブサイトでは、歌を聴いて歌詞を当てることで英語を学べます！",
+        "url": "https://lyricstraining.com/en/play/mariah-carey/all-i-want-for-christmas-is-you-make-my-wish-come-true-edition/HSt7I4VQjS#b7w",
+        "metadata": {
+          "title": "Lyricstraining",
+          "description": "Visit lyricstraining.com for more information",
+          "imageUrl": "https://www.google.com/s2/favicons?domain=lyricstraining.com&sz=128",
+          "siteName": "lyricstraining.com",
+          "type": "link"
+        }
+      },
+      "createdAt": "2025-12-07T10:32:28.150Z"
+    },
+    {
+      "id": "item-1765103665582",
+      "type": "quote",
+      "position": {
+        "x": 1077.4734133790698,
+        "y": 1966.6624657874638
+      },
+      "rotation": -1.545156074544256,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "quote",
+      "color": "#FFF740",
+      "content": {
+        "title": "Inspiration",
+        "quote": "Christmas isn’t a season[季節]. It’s a feeling[気持ち].",
+        "author": "Edna Ferber",
+        "source": ""
+      },
+      "createdAt": "2025-12-07T10:34:25.582Z"
+    },
+    {
+      "id": "item-1765103976419",
+      "type": "note",
+      "position": {
+        "x": 349.955403087477,
+        "y": 3433.881819438766
+      },
+      "rotation": -1.3486635254683446,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "sticky-note",
+      "color": "#FFF740",
+      "content": {
+        "title": "Do you like it?",
+        "text": "デジタル英語ボードは気に入りましたか？気に入ったら教えてくださいね。そうすれば続けて、もっとコンテンツを追加できます！"
+      },
+      "createdAt": "2025-12-07T10:39:36.420Z"
+    },
+    {
+      "id": "item-1765104330225",
+      "type": "image",
+      "position": {
+        "x": 1047.0137221269244,
+        "y": 2397.0814751564517
+      },
+      "rotation": -4.161481987926766,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "image",
+      "color": "#FFF740",
+      "content": {
+        "title": "Christmas markets have unique[ユニークな] cups you can collect[集められる]!",
+        "text": "Click to edit...",
+        "imageUrl": "assets/images/extracted-1765113074793-4.jpeg"
+      },
+      "createdAt": "2025-12-07T10:45:30.225Z",
+      "width": 290
+    },
+    {
+      "id": "item-1765176371793",
+      "type": "image",
+      "position": {
+        "x": 100.08456259315454,
+        "y": 3010.8040472874086
+      },
+      "rotation": 0.27501605545888097,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "image",
+      "color": "#FFF740",
+      "content": {
+        "title": "The Muppets Christmas Carol",
+        "text": "This movie is fun and easy to watch. It has many cute puppets[人形], music[音楽], and jokes[冗談]. The story teaches a good lesson[教訓] about being kind[親切] and helping[助ける] others.\nIt is also a famous[有名] Christmas story, so it is good for learning about Christmas culture[文化].\nI think you will enjoy[楽しむ] this movie!",
+        "imageUrl": "assets/images/muppetchristmascarol.webp"
+      },
+      "createdAt": "2025-12-08T06:46:11.794Z",
+      "layout": "poster-left"
+    },
+    {
+      "id": "item-1765176548902",
+      "type": "image",
+      "position": {
+        "x": 933.8388627004498,
+        "y": 2929.8536011858682
+      },
+      "rotation": 0.990768133956279,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "image",
+      "color": "#FFF740",
+      "content": {
+        "title": "Elf",
+        "text": "This movie is very funny[おもしろい] and cheerful[明るい]. It is about a man who grows up with elves[妖精 yōsei] at the North Pole[北極 hokkyoku]. He goes to New York to find his real family[家族], and many silly[ばかげた] things happen.\n\nThe movie teaches us to believe[信じる] in ourselves and to be kind[親切] to others.",
+        "imageUrl": "assets/images/elf.jpg"
+      },
+      "createdAt": "2025-12-08T06:49:08.903Z",
+      "layout": "poster-right"
+    },
+    {
+      "id": "item-1765176886150",
+      "type": "image",
+      "position": {
+        "x": 514.8436259056218,
+        "y": 3096.5253147695435
+      },
+      "rotation": 4.852318000127125,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "image",
+      "color": "#FFF740",
+      "content": {
+        "title": "Home Alone",
+        "text": "This movie is very fun and exciting[わくわくする]. A boy is alone[一人で] at home, and two thieves[泥棒] try to enter the house. He makes many clever[かしこい] traps[わな] to stop them, and it is very funny to watch.",
+        "imageUrl": "assets/images/homealone.jpg"
+      },
+      "createdAt": "2025-12-08T06:54:46.151Z",
+      "layout": "poster-right"
+    },
+    {
+      "id": "item-1765231534933",
+      "type": "crossword",
+      "position": {
+        "x": 29.507103524971015,
+        "y": 3423.1071021715775
+      },
+      "rotation": -2.105021198068906,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "crossword",
+      "color": "#FFF740",
+      "content": {
+        "title": "Christmas Crossword",
+        "clues": [
+          {
+            "number": 1,
+            "direction": "down",
+            "text": "red nose",
+            "word": "RUDOLPH"
+          },
+          {
+            "number": 2,
+            "direction": "down",
+            "text": "claus",
+            "word": "SANTA"
+          },
+          {
+            "number": 3,
+            "direction": "down",
+            "text": "not a horse",
+            "word": "REINDEER"
+          },
+          {
+            "number": 4,
+            "direction": "across",
+            "text": "christmas sweet",
+            "word": "CANDYCANE"
+          },
+          {
+            "number": 5,
+            "direction": "across",
+            "text": "on top of the tree",
+            "word": "ANGEL"
+          },
+          {
+            "number": 6,
+            "direction": "across",
+            "text": "not a sled",
+            "word": "SLEIGH"
+          },
+          {
+            "number": 7,
+            "direction": "across",
+            "text": "not a gift",
+            "word": "PRESENT"
+          },
+          {
+            "number": 8,
+            "direction": "down",
+            "text": "makes presents",
+            "word": "ELF"
+          }
+        ],
+        "grid": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "char": "R",
+              "number": 1,
+              "downNum": 1
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "char": "S",
+              "number": 2,
+              "downNum": 2
+            },
+            null,
+            {
+              "char": "U",
+              "downNum": 1
+            },
+            null,
+            null,
+            null,
+            null,
+            {
+              "char": "R",
+              "number": 3,
+              "downNum": 3
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "char": "C",
+              "number": 4,
+              "acrossNum": 4
+            },
+            {
+              "char": "A",
+              "downNum": 2,
+              "acrossNum": 4
+            },
+            {
+              "char": "N",
+              "acrossNum": 4
+            },
+            {
+              "char": "D",
+              "downNum": 1,
+              "acrossNum": 4
+            },
+            {
+              "char": "Y",
+              "acrossNum": 4
+            },
+            {
+              "char": "C",
+              "acrossNum": 4
+            },
+            {
+              "char": "A",
+              "acrossNum": 4
+            },
+            {
+              "char": "N",
+              "acrossNum": 4
+            },
+            {
+              "char": "E",
+              "downNum": 3,
+              "acrossNum": 4
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "char": "N",
+              "downNum": 2
+            },
+            null,
+            {
+              "char": "O",
+              "downNum": 1
+            },
+            null,
+            null,
+            null,
+            null,
+            {
+              "char": "I",
+              "downNum": 3
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "char": "T",
+              "downNum": 2
+            },
+            null,
+            {
+              "char": "L",
+              "downNum": 1
+            },
+            null,
+            null,
+            null,
+            {
+              "char": "A",
+              "number": 5,
+              "acrossNum": 5
+            },
+            {
+              "char": "N",
+              "downNum": 3,
+              "acrossNum": 5
+            },
+            {
+              "char": "G",
+              "acrossNum": 5
+            },
+            {
+              "char": "E",
+              "acrossNum": 5
+            },
+            {
+              "char": "L",
+              "acrossNum": 5
+            },
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "char": "A",
+              "downNum": 2
+            },
+            null,
+            {
+              "char": "P",
+              "downNum": 1
+            },
+            null,
+            null,
+            null,
+            null,
+            {
+              "char": "D",
+              "downNum": 3
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "char": "H",
+              "downNum": 1
+            },
+            null,
+            null,
+            {
+              "char": "S",
+              "number": 6,
+              "acrossNum": 6
+            },
+            {
+              "char": "L",
+              "acrossNum": 6
+            },
+            {
+              "char": "E",
+              "downNum": 3,
+              "acrossNum": 6
+            },
+            {
+              "char": "I",
+              "acrossNum": 6
+            },
+            {
+              "char": "G",
+              "acrossNum": 6
+            },
+            {
+              "char": "H",
+              "acrossNum": 6
+            },
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "char": "E",
+              "downNum": 3
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "char": "P",
+              "number": 7,
+              "acrossNum": 7
+            },
+            {
+              "char": "R",
+              "downNum": 3,
+              "acrossNum": 7
+            },
+            {
+              "char": "E",
+              "acrossNum": 7,
+              "number": 8,
+              "downNum": 8
+            },
+            {
+              "char": "S",
+              "acrossNum": 7
+            },
+            {
+              "char": "E",
+              "acrossNum": 7
+            },
+            {
+              "char": "N",
+              "acrossNum": 7
+            },
+            {
+              "char": "T",
+              "acrossNum": 7
+            },
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "char": "L",
+              "downNum": 8
+            },
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "char": "F",
+              "downNum": 8
+            },
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ],
+        "width": 20,
+        "height": 20,
+        "wordList": [
+          {
+            "word": "SANTA",
+            "clue": "claus"
+          },
+          {
+            "word": "REINDEER",
+            "clue": "not a horse"
+          },
+          {
+            "word": "ANGEL",
+            "clue": "on top of the tree"
+          },
+          {
+            "word": "RUDOLPH",
+            "clue": "red nose"
+          },
+          {
+            "word": "SLEIGH",
+            "clue": "not a sled"
+          },
+          {
+            "word": "PRESENT",
+            "clue": "not a gift"
+          },
+          {
+            "word": "ELF",
+            "clue": "makes presents"
+          },
+          {
+            "word": "CANDYCANE",
+            "clue": "christmas sweet"
+          }
+        ]
+      },
+      "createdAt": "2025-12-08T22:05:34.933Z"
+    },
+    {
+      "id": "item-1765231538554",
+      "type": "wordsearch",
+      "position": {
+        "x": 600.884627192443,
+        "y": 3407.735336374241
+      },
+      "rotation": 1.314785265417667,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "wordsearch",
+      "color": "#FFF740",
+      "content": {
+        "title": "Christmas Word Search",
+        "words": [
+          "REINDEER",
+          "SANTA",
+          "PRESENT",
+          "TREE",
+          "STAR"
+        ],
+        "grid": [
+          [
+            "X",
+            "E",
+            "S",
+            "R",
+            "P",
+            "S",
+            "T",
+            "A",
+            "R",
+            "O"
+          ],
+          [
+            "P",
+            "W",
+            "H",
+            "A",
+            "T",
+            "V",
+            "L",
+            "U",
+            "G",
+            "R"
+          ],
+          [
+            "R",
+            "O",
+            "H",
+            "K",
+            "N",
+            "A",
+            "X",
+            "D",
+            "I",
+            "E"
+          ],
+          [
+            "E",
+            "W",
+            "A",
+            "Y",
+            "T",
+            "T",
+            "X",
+            "C",
+            "G",
+            "I"
+          ],
+          [
+            "S",
+            "A",
+            "F",
+            "G",
+            "F",
+            "V",
+            "A",
+            "Z",
+            "V",
+            "N"
+          ],
+          [
+            "E",
+            "Q",
+            "P",
+            "T",
+            "B",
+            "N",
+            "J",
+            "V",
+            "B",
+            "D"
+          ],
+          [
+            "N",
+            "Z",
+            "Q",
+            "S",
+            "R",
+            "G",
+            "R",
+            "D",
+            "M",
+            "E"
+          ],
+          [
+            "T",
+            "O",
+            "J",
+            "H",
+            "T",
+            "E",
+            "Y",
+            "D",
+            "B",
+            "E"
+          ],
+          [
+            "W",
+            "D",
+            "A",
+            "D",
+            "L",
+            "E",
+            "E",
+            "O",
+            "Z",
+            "R"
+          ],
+          [
+            "I",
+            "A",
+            "Z",
+            "N",
+            "X",
+            "V",
+            "Q",
+            "O",
+            "R",
+            "Z"
+          ]
+        ],
+        "size": 10
+      },
+      "createdAt": "2025-12-08T22:05:38.555Z"
+    },
+    {
+      "id": "item-1765233146495",
+      "type": "image",
+      "position": {
+        "x": 931.1486606653807,
+        "y": 3258.1865974106677
+      },
+      "rotation": 2.3434071413037216,
+      "zIndex": 1,
+      "scale": 1,
+      "month": "2025-12",
+      "tags": [],
+      "style": "image",
+      "color": "#FFF740",
+      "content": {
+        "title": "Klaus",
+        "text": "This movie is beautiful[美しい] and funny. It is about a postman[郵便配達人] who goes to a cold, lonely[さびしい] town and meets a toy maker[おもちゃ職人] named Klaus. They start giving gifts[贈り物] to children, and the town becomes happy[幸せ] again.\nI like this movie because it feels warm[あたたかい], has simple funny moments[面白い場面], and shows that small kindness[親切] can make big change[変化].",
+        "imageUrl": "assets/images/klaus.webp"
+      },
+      "createdAt": "2025-12-08T22:32:26.495Z",
+      "layout": "poster-left"
+    }
+  ],
+  "decorations": [
+    {
+      "id": "deco-1765090542669",
+      "type": "decoration",
+      "imageUrl": "assets/images/extracted-1765113074793-5.png",
+      "position": {
+        "x": 389.7872775900744,
+        "y": -129.19897739481232
+      },
+      "rotation": -2.9170806911874823,
+      "scale": 3.66,
+      "zIndex": 0
+    },
+    {
+      "id": "deco-1765102218722",
+      "type": "decoration",
+      "imageUrl": "assets/images/extracted-1765113074793-6.png",
+      "position": {
+        "x": 503.4253870098829,
+        "y": 2013.5230862659457
+      },
+      "rotation": 3.711002742850537,
+      "scale": 2.993333333333333,
+      "zIndex": 0
+    },
+    {
+      "id": "deco-1765106130655",
+      "type": "decoration",
+      "imageUrl": "assets/images/extracted-1765113074793-7.png",
+      "position": {
+        "x": 1030.612323983395,
+        "y": 2157.152562279916
+      },
+      "rotation": 16.52953711484888,
+      "scale": 1.4466666666666668,
+      "zIndex": 0
+    },
+    {
+      "id": "deco-1765106184373",
+      "type": "decoration",
+      "imageUrl": "assets/images/extracted-1765113074793-8.png",
+      "position": {
+        "x": 353.469983922404,
+        "y": 263.71195254836084
+      },
+      "rotation": -1.6360893236357033,
+      "scale": 1.1466666666666667,
+      "zIndex": 0
+    },
+    {
+      "id": "deco-1765106251411",
+      "type": "decoration",
+      "imageUrl": "assets/images/extracted-1765113074793-9.png",
+      "position": {
+        "x": 883.8764281905742,
+        "y": 1039.8407474718235
+      },
+      "rotation": -26.694898656573343,
+      "scale": 1,
+      "zIndex": 0
+    },
+    {
+      "id": "deco-1765106344971",
+      "type": "decoration",
+      "imageUrl": "assets/images/extracted-1765113074793-10.webp",
+      "position": {
+        "x": 815.0773851728748,
+        "y": 200.01534091609682
+      },
+      "rotation": -10.151185287770577,
+      "scale": 1.6266666666666667,
+      "zIndex": 0
+    },
+    {
+      "id": "deco-1765106408739",
+      "type": "decoration",
+      "imageUrl": "assets/images/extracted-1765113074793-11.png",
+      "position": {
+        "x": 308.9128965428274,
+        "y": 2045.628944689301
+      },
+      "rotation": -7.701518766781231,
+      "scale": 1.7,
+      "zIndex": 0
+    },
+    {
+      "id": "deco-1765106516860",
+      "type": "decoration",
+      "imageUrl": "assets/images/extracted-1765113074793-12.png",
+      "position": {
+        "x": 1092.1999756797175,
+        "y": 1729.4013536797263
+      },
+      "rotation": -0.9569580726836797,
+      "scale": 1.7466666666666666,
+      "zIndex": 0
+    },
+    {
+      "id": "deco-1765174334745",
+      "type": "decoration",
+      "imageUrl": "assets/images/christmasmovies.png",
+      "position": {
+        "x": 455.2030971946589,
+        "y": 2739.733754183768
+      },
+      "rotation": 2.777821790455752,
+      "scale": 3.0866666666666664,
+      "zIndex": 0
+    }
+  ],
+  "customHtml": "<div class=\"snowflakes\" aria-hidden=\"true\">\n  <div class=\"snowflake\">❅</div>\n  <div class=\"snowflake\">❆</div>\n  <div class=\"snowflake\">❅</div>\n  <div class=\"snowflake\">❆</div>\n  <div class=\"snowflake\">❅</div>\n  <div class=\"snowflake\">❆</div>\n  <div class=\"snowflake\">❅</div>\n  <div class=\"snowflake\">❆</div>\n  <div class=\"snowflake\">❅</div>\n  <div class=\"snowflake\">❆</div>\n</div>\n<div class=\"christmas-lights\">\n  <div class=\"light red\"></div>\n  <div class=\"light green\"></div>\n  <div class=\"light blue\"></div>\n  <div class=\"light yellow\"></div>\n  <div class=\"light red\"></div>\n  <div class=\"light green\"></div>\n  <div class=\"light blue\"></div>\n  <div class=\"light yellow\"></div>\n  <div class=\"light red\"></div>\n  <div class=\"light green\"></div>\n</div>",
+  "customCss": ".snowflakes {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n  pointer-events: none;\n  z-index: 1;\n  overflow: hidden;\n}\n\n.snowflake {\n  position: absolute;\n  top: -10%;\n  color: white;\n  font-size: 1.5em;\n  animation: fall linear infinite;\n  text-shadow: 0 0 5px rgba(255,255,255,0.8);\n}\n\n.snowflake:nth-child(1) { left: 10%; animation-duration: 10s; animation-delay: 0s; }\n.snowflake:nth-child(2) { left: 20%; animation-duration: 12s; animation-delay: 2s; }\n.snowflake:nth-child(3) { left: 30%; animation-duration: 8s; animation-delay: 4s; }\n.snowflake:nth-child(4) { left: 40%; animation-duration: 14s; animation-delay: 1s; }\n.snowflake:nth-child(5) { left: 50%; animation-duration: 11s; animation-delay: 3s; }\n.snowflake:nth-child(6) { left: 60%; animation-duration: 9s; animation-delay: 5s; }\n.snowflake:nth-child(7) { left: 70%; animation-duration: 13s; animation-delay: 2s; }\n.snowflake:nth-child(8) { left: 80%; animation-duration: 10s; animation-delay: 4s; }\n.snowflake:nth-child(9) { left: 15%; animation-duration: 11s; animation-delay: 6s; }\n.snowflake:nth-child(10) { left: 85%; animation-duration: 9s; animation-delay: 3s; }\n\n@keyframes fall {\n  to { top: 110%; }\n}\n\n.christmas-lights {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 40px;\n  pointer-events: none;\n  z-index: 1;\n  display: flex;\n  justify-content: space-around;\n  align-items: center;\n  padding: 0 20px;\n}\n\n.light {\n  width: 20px;\n  height: 30px;\n  border-radius: 50% 50% 40% 40%;\n  animation: blink 1.5s infinite;\n}\n\n.light.red { background: #ff0000; box-shadow: 0 0 10px #ff0000; }\n.light.green { background: #00ff00; box-shadow: 0 0 10px #00ff00; animation-delay: 0.3s; }\n.light.blue { background: #0000ff; box-shadow: 0 0 10px #0000ff; animation-delay: 0.6s; }\n.light.yellow { background: #ffff00; box-shadow: 0 0 10px #ffff00; animation-delay: 0.9s; }\n\n@keyframes blink {\n  0%, 100% { opacity: 1; }\n  50% { opacity: 0.3; }\n}"
+}

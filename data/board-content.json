@@ -1,0 +1,511 @@
+{
+  "version": "2.0",
+  "lastUpdated": "2025-11-05T13:16:10.218Z",
+  "months": {
+    "2025-01": {
+      "items": [
+        {
+          "id": "item-1",
+          "type": "note",
+          "position": {
+            "x": 150,
+            "y": 200
+          },
+          "rotation": -3,
+          "zIndex": 1,
+          "scale": 1,
+          "month": "2025-01",
+          "tags": [
+            "homework",
+            "reading"
+          ],
+          "style": "sticky-note",
+          "color": "#FFF740",
+          "content": {
+            "title": "Math Assignment",
+            "text": "Complete Chapter 5 exercises\nDue: Friday\nPages 120-125"
+          },
+          "createdAt": "2025-01-01T10:00:00Z"
+        },
+        {
+          "id": "item-2",
+          "type": "note",
+          "position": {
+            "x": 400,
+            "y": 150
+          },
+          "rotation": 5,
+          "zIndex": 2,
+          "scale": 1,
+          "month": "2025-01",
+          "tags": [
+            "reading"
+          ],
+          "style": "sticky-note",
+          "color": "#FFB6C1",
+          "content": {
+            "title": "Reading List",
+            "text": "1. To Kill a Mockingbird\n2. The Great Gatsby\n3. 1984\n\nPick one for book report"
+          },
+          "createdAt": "2025-01-02T14:30:00Z"
+        },
+        {
+          "id": "item-3",
+          "type": "link",
+          "position": {
+            "x": 600,
+            "y": 300
+          },
+          "rotation": -7,
+          "zIndex": 1,
+          "scale": 1,
+          "month": "2025-01",
+          "tags": [
+            "resources"
+          ],
+          "style": "sticky-note",
+          "color": "#B4E7F8",
+          "content": {
+            "title": "Khan Academy",
+            "text": "Great math tutorials and practice problems",
+            "url": "https://www.khanacademy.org"
+          },
+          "createdAt": "2025-01-03T09:15:00Z"
+        },
+        {
+          "id": "item-4",
+          "type": "note",
+          "position": {
+            "x": 200,
+            "y": 450
+          },
+          "rotation": 2,
+          "zIndex": 3,
+          "scale": 1,
+          "month": "2025-01",
+          "tags": [
+            "announcement"
+          ],
+          "style": "sticky-note",
+          "color": "#BDFFA4",
+          "content": {
+            "title": "Field Trip",
+            "text": "Science Museum visit\nJanuary 25th\nBring lunch and permission slip"
+          },
+          "createdAt": "2025-01-04T11:00:00Z"
+        },
+        {
+          "id": "item-5",
+          "type": "image",
+          "position": {
+            "x": 450,
+            "y": 400
+          },
+          "rotation": -4,
+          "zIndex": 2,
+          "scale": 1,
+          "month": "2025-01",
+          "tags": [
+            "resources",
+            "science"
+          ],
+          "style": "polaroid",
+          "content": {
+            "title": "Solar System Diagram",
+            "imageUrl": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=300&h=200&fit=crop",
+            "text": "Study guide for astronomy unit"
+          },
+          "createdAt": "2025-01-05T08:30:00Z"
+        },
+        {
+          "id": "item-6",
+          "type": "note",
+          "position": {
+            "x": 700,
+            "y": 180
+          },
+          "rotation": 3,
+          "zIndex": 1,
+          "scale": 1,
+          "month": "2025-01",
+          "tags": [
+            "homework",
+            "writing"
+          ],
+          "style": "note-card",
+          "color": "#ffffff",
+          "content": {
+            "title": "Essay Assignment",
+            "text": "Write a 500-word essay on 'The Impact of Technology on Modern Communication'\n\nDue: January 20th\nRequirements:\n- MLA format\n- 3 sources minimum\n- Works cited page"
+          },
+          "createdAt": "2025-01-06T14:00:00Z"
+        },
+        {
+          "id": "item-7",
+          "type": "link",
+          "position": {
+            "x": 350,
+            "y": 600
+          },
+          "rotation": -2,
+          "zIndex": 2,
+          "scale": 1,
+          "month": "2025-01",
+          "tags": [
+            "resources",
+            "writing"
+          ],
+          "style": "link-preview",
+          "content": {
+            "title": "Purdue OWL Writing Resources",
+            "text": "Comprehensive guide to MLA formatting and citation",
+            "url": "https://owl.purdue.edu/owl/research_and_citation/mla_style/",
+            "metadata": {
+              "description": "The Purdue University Online Writing Lab (OWL) provides free resources for writing, research, grammar, and style.",
+              "siteName": "Purdue OWL",
+              "imageUrl": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=300&h=150&fit=crop"
+            }
+          },
+          "createdAt": "2025-01-07T10:15:00Z"
+        },
+        {
+          "id": "item-8",
+          "type": "image",
+          "position": {
+            "x": 150,
+            "y": 650
+          },
+          "rotation": 6,
+          "zIndex": 1,
+          "scale": 1,
+          "month": "2025-01",
+          "tags": [
+            "announcement",
+            "fun"
+          ],
+          "style": "polaroid",
+          "content": {
+            "title": "Class Photo Day",
+            "imageUrl": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=300&h=200&fit=crop",
+            "text": "Picture day is January 30th!"
+          },
+          "createdAt": "2025-01-08T09:00:00Z"
+        },
+        {
+          "id": "item-yt-1",
+          "type": "link",
+          "position": {
+            "x": 650,
+            "y": 500
+          },
+          "rotation": 3,
+          "zIndex": 2,
+          "scale": 1,
+          "month": "2025-01",
+          "tags": [
+            "resources",
+            "science"
+          ],
+          "style": "link-preview",
+          "content": {
+            "title": "Photosynthesis Explained",
+            "text": "Great educational video explaining how plants make food",
+            "url": "https://www.youtube.com/watch?v=sQK3Yr4Sc_k",
+            "metadata": {
+              "description": "An animated explanation of photosynthesis for students",
+              "siteName": "YouTube",
+              "type": "video"
+            }
+          },
+          "createdAt": "2025-01-09T13:20:00Z"
+        }
+      ],
+      "decorations": []
+    },
+    "2025-02": {
+      "items": [
+        {
+          "id": "item-feb-1",
+          "type": "note",
+          "position": {
+            "x": 300,
+            "y": 250
+          },
+          "rotation": -2,
+          "zIndex": 1,
+          "scale": 1,
+          "month": "2025-02",
+          "tags": [
+            "homework",
+            "science"
+          ],
+          "style": "sticky-note",
+          "color": "#B4E7F8",
+          "content": {
+            "title": "Chemistry Lab",
+            "text": "Chapter 8 Lab Report\nDue: February 14th\nPartner: Sarah"
+          },
+          "createdAt": "2025-02-01T10:00:00Z"
+        },
+        {
+          "id": "item-feb-2",
+          "type": "link",
+          "position": {
+            "x": 500,
+            "y": 180
+          },
+          "rotation": 4,
+          "zIndex": 2,
+          "scale": 1,
+          "month": "2025-02",
+          "tags": [
+            "resources",
+            "science"
+          ],
+          "style": "link-preview",
+          "content": {
+            "title": "Periodic Table Interactive",
+            "text": "Great tool for learning element properties",
+            "url": "https://ptable.com",
+            "metadata": {
+              "description": "Dynamic periodic table with detailed element information",
+              "siteName": "Ptable",
+              "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=300&h=150&fit=crop"
+            }
+          },
+          "createdAt": "2025-02-02T14:30:00Z"
+        },
+        {
+          "id": "item-feb-3",
+          "type": "note",
+          "position": {
+            "x": 200,
+            "y": 400
+          },
+          "rotation": -5,
+          "zIndex": 1,
+          "scale": 1,
+          "month": "2025-02",
+          "tags": [
+            "announcement"
+          ],
+          "style": "sticky-note",
+          "color": "#BDFFA4",
+          "content": {
+            "title": "Valentine's Dance",
+            "text": "February 14th, 7-10 PM\nGym\nTickets: $5"
+          },
+          "createdAt": "2025-02-03T09:15:00Z"
+        },
+        {
+          "id": "item-yt-2",
+          "type": "link",
+          "position": {
+            "x": 750,
+            "y": 350
+          },
+          "rotation": -6,
+          "zIndex": 1,
+          "scale": 1,
+          "month": "2025-02",
+          "tags": [
+            "resources",
+            "fun"
+          ],
+          "style": "link-preview",
+          "content": {
+            "title": "Chemistry Song",
+            "text": "Catchy song to help memorize the periodic table",
+            "url": "https://youtu.be/VgVQKCcfwnU",
+            "metadata": {
+              "description": "Educational music video about chemical elements",
+              "siteName": "YouTube",
+              "type": "video"
+            }
+          },
+          "createdAt": "2025-02-04T16:45:00Z"
+        }
+      ],
+      "decorations": []
+    },
+    "2025-11": {
+      "items": [
+        {
+          "id": "item-1762348582810",
+          "type": "link",
+          "position": {
+            "x": 847,
+            "y": 284
+          },
+          "rotation": -0.8035712444355161,
+          "zIndex": 1,
+          "scale": 1,
+          "month": "2025-11",
+          "tags": [],
+          "style": "link",
+          "color": "#FFF740",
+          "content": {
+            "title": "Kagglegjgjhg",
+            "text": "Visit kaggle.comkjjk for more information",
+            "url": "https://www.kaggle.com/",
+            "metadata": {
+              "title": "Kaggle",
+              "description": "Visit kaggle.com for more information",
+              "imageUrl": "https://www.google.com/s2/favicons?domain=kaggle.com&sz=128",
+              "siteName": "kaggle.com",
+              "type": "link"
+            }
+          },
+          "createdAt": "2025-11-05T13:16:22.810Z"
+        },
+        {
+          "id": "item-1762405096862",
+          "type": "note",
+          "position": {
+            "x": 44,
+            "y": 357
+          },
+          "rotation": -0.15889611806468906,
+          "zIndex": 1,
+          "scale": 1,
+          "month": "2025-11",
+          "tags": [],
+          "style": "sticky-note",
+          "color": "#FFF740",
+          "content": {
+            "title": "New Item",
+            "text": "Click to edit..."
+          },
+          "createdAt": "2025-11-06T04:58:16.862Z"
+        },
+        {
+          "id": "item-1762405101599",
+          "type": "quote",
+          "position": {
+            "x": 334,
+            "y": 439
+          },
+          "rotation": 2.6920712358044643,
+          "zIndex": 1,
+          "scale": 1,
+          "month": "2025-11",
+          "tags": [],
+          "style": "quote",
+          "color": "#FFF740",
+          "content": {
+            "title": "Inspiration",
+            "quote": "Your inspiring quote here...",
+            "author": "Author Name",
+            "source": ""
+          },
+          "createdAt": "2025-11-06T04:58:21.599Z"
+        },
+        {
+          "id": "item-1762405111989",
+          "type": "flashcard",
+          "position": {
+            "x": 521,
+            "y": 52
+          },
+          "rotation": -4.5686033924171205,
+          "zIndex": 1,
+          "scale": 1,
+          "month": "2025-11",
+          "tags": [],
+          "style": "flashcard",
+          "color": "#FFF740",
+          "content": {
+            "title": "Flashcard",
+            "front": "Question side",
+            "back": "Answer side"
+          },
+          "createdAt": "2025-11-06T04:58:31.989Z"
+        },
+        {
+          "id": "item-1762405120985",
+          "type": "calendar-event",
+          "position": {
+            "x": 191,
+            "y": 76
+          },
+          "rotation": -3.76301191610429,
+          "zIndex": 1,
+          "scale": 1,
+          "month": "2025-11",
+          "tags": [],
+          "style": "calendar-event",
+          "color": "#FFF740",
+          "content": {
+            "title": "New Event",
+            "eventDate": "2025-11-06",
+            "eventTime": "12:00",
+            "description": "Event description",
+            "location": ""
+          },
+          "createdAt": "2025-11-06T04:58:40.985Z"
+        }
+      ],
+      "decorations": [
+        {
+          "id": "deco-1",
+          "imageUrl": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTIwIDVMMjUgMTVIMzVMMjcuNSAyM0wzMCAzNUgyMEwxMCAzNUwxMi41IDIzTDUgMTVIMTVMMjAgNVoiIGZpbGw9IiNGRkQ3MDAiIHN0cm9rZT0iI0ZGQjAwMCIgc3Ryb2tlLXdpZHRoPSIyIi8+Cjwvc3ZnPgo=",
+          "position": {
+            "x": 100,
+            "y": 100
+          },
+          "rotation": 15,
+          "scale": 0.8,
+          "zIndex": 0
+        },
+        {
+          "id": "deco-2",
+          "imageUrl": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMwIDEwQzM1IDEwIDQwIDE1IDQwIDIwVjQwQzQwIDQ1IDM1IDUwIDMwIDUwSDIwQzE1IDUwIDEwIDQ1IDEwIDQwVjIwQzEwIDE1IDE1IDEwIDIwIDEwSDMwWiIgZmlsbD0iIzk2Q0VCNCIgb3BhY2l0eT0iMC43Ii8+CjxjaXJjbGUgY3g9IjMwIiBjeT0iMzAiIHI9IjgiIGZpbGw9IndoaXRlIiBvcGFjaXR5PSIwLjgiLz4KPC9zdmc+Cg==",
+          "position": {
+            "x": 800,
+            "y": 150
+          },
+          "rotation": -12,
+          "scale": 0.6,
+          "zIndex": 0
+        }
+      ]
+    }
+  },
+  "tags": [
+    {
+      "id": "homework",
+      "label": "Homework",
+      "color": "#ff6b6b"
+    },
+    {
+      "id": "reading",
+      "label": "Reading Material",
+      "color": "#4ecdc4"
+    },
+    {
+      "id": "resources",
+      "label": "Online Resources",
+      "color": "#45b7d1"
+    },
+    {
+      "id": "announcement",
+      "label": "Announcements",
+      "color": "#96ceb4"
+    },
+    {
+      "id": "science",
+      "label": "Science",
+      "color": "#9b59b6"
+    },
+    {
+      "id": "writing",
+      "label": "Writing",
+      "color": "#e67e22"
+    },
+    {
+      "id": "fun",
+      "label": "Fun Activities",
+      "color": "#f39c12"
+    }
+  ]
+}

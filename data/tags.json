@@ -1,0 +1,37 @@
+[
+  {
+    "id": "homework",
+    "label": "Homework",
+    "color": "#ff6b6b"
+  },
+  {
+    "id": "reading",
+    "label": "Reading Material",
+    "color": "#4ecdc4"
+  },
+  {
+    "id": "resources",
+    "label": "Online Resources",
+    "color": "#45b7d1"
+  },
+  {
+    "id": "announcement",
+    "label": "Announcements",
+    "color": "#96ceb4"
+  },
+  {
+    "id": "science",
+    "label": "Science",
+    "color": "#9b59b6"
+  },
+  {
+    "id": "writing",
+    "label": "Writing",
+    "color": "#e67e22"
+  },
+  {
+    "id": "fun",
+    "label": "Fun Activities",
+    "color": "#f39c12"
+  }
+]
