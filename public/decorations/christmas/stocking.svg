@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+<path d="M150,18 v18" stroke="#8b5a2b" stroke-width="4"/>
+<path d="M106,70 L106,180 C106,210 70,214 64,240 C58,270 92,288 130,272 L196,236 C214,226 216,206 216,190 L216,70Z" fill="#d4202a" stroke="#7a0f12" stroke-width="5" stroke-linejoin="round"/>
+<path d="M120,90 v140 M150,90 v150 M180,90 v120 M206,90 v100" stroke="#b5161f" stroke-width="5" opacity=".5"/>
+<path d="M78,262 C76,240 100,236 112,252 C118,262 106,282 92,282Z" fill="#fff" stroke="#c9d6e3" stroke-width="3"/>
+<rect x="94" y="36" width="134" height="44" rx="20" fill="#fff" stroke="#c9d6e3" stroke-width="4"/>
+<g fill="#eef4fa"><circle cx="112" cy="58" r="10"/><circle cx="140" cy="52" r="10"/><circle cx="170" cy="60" r="10"/><circle cx="204" cy="54" r="10"/></g>
+<path d="M146,38 q4,-22 4,-20" stroke="#8b5a2b" stroke-width="4" fill="none"/>
+<g transform="translate(160,150)"><path d="M0,-22 L6,-7 L22,-7 L9,3 L14,19 L0,9 L-14,19 L-9,3 L-22,-7 L-6,-7Z" fill="#ffd23b" stroke="#b58a00" stroke-width="2.5"/></g>
+</svg>

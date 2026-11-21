@@ -50,3 +50,20 @@ body {
   25% { transform: translateX(-8px); }
   75% { transform: translateX(8px); }
 }
+
+/* Fairy lights (SeasonEffects) */
+@keyframes deb-twinkle {
+  0%, 100% { opacity: 1; }
+  45% { opacity: 1; }
+  60% { opacity: 0.35; }
+  75% { opacity: 1; }
+}
+@keyframes deb-glow {
+  0%, 100% { opacity: 0.55; }
+  60% { opacity: 0.05; }
+}
+.deb-bulb { animation: deb-twinkle 2.4s ease-in-out infinite; }
+.deb-bulb-glow { animation: deb-glow 2.4s ease-in-out infinite; }
+@media (prefers-reduced-motion: reduce) {
+  .deb-bulb, .deb-bulb-glow { animation: none; }
+}

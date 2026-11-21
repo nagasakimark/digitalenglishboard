@@ -73,9 +73,10 @@ const DecorationItem = ({ decoration, isEditable = false, onUpdate, onSelect }) 
   };
 
   if (isEditable) {
+    const aspect = decoration.aspect || 1; // height ÷ width (wide banners, garlands…)
     const currentSize = {
       width: 150 * (decoration.scale || 1),
-      height: 150 * (decoration.scale || 1)
+      height: 150 * (decoration.scale || 1) * aspect
     };
 
     return (
@@ -90,11 +91,6 @@ const DecorationItem = ({ decoration, isEditable = false, onUpdate, onSelect }) 
             });
           }
         }}
-        onResize={(e, direction, ref, delta, position) => {
-          const newWidth = parseInt(ref.style.width);
-          const newScale = newWidth / 150;
-          setSize({ width: newWidth, height: newWidth });
-        }}
         onResizeStop={(e, direction, ref, delta, position) => {
           const newWidth = parseInt(ref.style.width);
           const newScale = newWidth / 150;
@@ -106,7 +102,7 @@ const DecorationItem = ({ decoration, isEditable = false, onUpdate, onSelect }) 
             });
           }
         }}
-        lockAspectRatio={true}
+        lockAspectRatio={1 / aspect}
         disableDragging={isRotating}
         style={{
           zIndex: decoration.zIndex || 0,
@@ -236,11 +232,12 @@ const DecorationItem = ({ decoration, isEditable = false, onUpdate, onSelect }) 
         left: decoration.position.x,
         top: decoration.position.y,
         width: `${size}px`,
-        height: `${size}px`,
+        height: `${size * (decoration.aspect || 1)}px`,
         // Only rotate, don't scale (size is handled by width/height)
         transform: `rotate(${decoration.rotation || 0}deg)`,
         transformOrigin: 'center center',
-        display: 'inline-block'
+        display: 'inline-block',
+        pointerEvents: 'none'
       }}
     >
       <img

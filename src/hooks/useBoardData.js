@@ -8,6 +8,10 @@ import { readJsonFile, listDir, hasToken } from '../utils/github';
 export const pickStartMonth = (available, current) => {
   if (!available || available.length === 0) return current;
   if (available.includes(current)) return current;
+  // Next month's board is ready already? Show that (e.g. December's board in late November)
+  const [y, m] = current.split('-').map(Number);
+  const next = m === 12 ? `${y + 1}-01` : `${y}-${String(m + 1).padStart(2, '0')}`;
+  if (available.includes(next)) return next;
   const past = available.filter((m) => m <= current);
   return past.length ? past[past.length - 1] : available[available.length - 1];
 };

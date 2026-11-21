@@ -64,10 +64,45 @@ const MonthCustomizationEditor = ({ monthData, onUpdate }) => {
         </p>
       </div>
 
+      {/* Screen effects (stay on screen while students scroll) */}
+      <div className="space-y-2 bg-sky-50 border border-sky-200 rounded-lg p-3">
+        <label className="block text-sm font-semibold text-gray-800">Screen effects ❄️</label>
+        <p className="text-xs text-gray-500">These stay on screen while students scroll the whole board.</p>
+        <div className="flex items-center gap-2 text-sm">
+          <span className="w-20">Snow</span>
+          <select
+            className="flex-1 border border-gray-200 rounded px-2 py-1 text-sm"
+            value={monthData.effects?.snow || ''}
+            onChange={(e) => onUpdate({ effects: { ...(monthData.effects || {}), snow: e.target.value || false } })}
+          >
+            <option value="">None</option>
+            <option value="light">A little</option>
+            <option value="gentle">Gentle</option>
+            <option value="heavy">Snowstorm!</option>
+          </select>
+        </div>
+        <label className="flex items-center gap-2 text-sm">
+          <input
+            type="checkbox"
+            checked={!!monthData.effects?.lights}
+            onChange={(e) => onUpdate({ effects: { ...(monthData.effects || {}), lights: e.target.checked } })}
+          />
+          Twinkling fairy lights across the top
+        </label>
+        <label className="flex items-center gap-2 text-sm">
+          <input
+            type="checkbox"
+            checked={!!monthData.effects?.snowyFrame}
+            onChange={(e) => onUpdate({ effects: { ...(monthData.effects || {}), snowyFrame: e.target.checked } })}
+          />
+          Snow on top of the frame
+        </label>
+      </div>
+
       {/* Visual Effects Selector */}
       <div className="space-y-2">
         <label className="block text-sm font-medium text-gray-700">
-          Visual Effects (select multiple)
+          Board effects — old style, top of the board only
         </label>
         <div className="space-y-2 max-h-64 overflow-y-auto border border-gray-200 rounded p-2">
           {effects.map((effect) => {

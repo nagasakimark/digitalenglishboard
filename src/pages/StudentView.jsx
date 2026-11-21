@@ -8,6 +8,7 @@ import CollapsibleNav from '../components/Navigation/CollapsibleNav';
 import BoardMinimap, { computeBoardHeight } from '../components/Navigation/BoardMinimap';
 import ImageLightbox from '../components/Lightbox/ImageLightbox';
 import StickerBook from '../components/StickerBook';
+import SeasonEffects from '../components/SeasonEffects';
 import { renderItem, EXTERNAL_LINK_TYPES } from '../components/Items/registry';
 import { useBoardData } from '../hooks/useBoardData';
 import { useMonthFilter } from '../hooks/useMonthFilter';
@@ -22,8 +23,12 @@ const StudentView = () => {
 
   // Start on this month's board, or the newest one if this month isn't ready yet
   useEffect(() => {
-    if (startMonth && !selectedMonth) setSelectedMonth(startMonth);
-  }, [startMonth, selectedMonth]);
+    if (startMonth && !selectedMonth) {
+      // ?month=2026-12 in the address opens that month (handy for previewing next month)
+      const asked = new URLSearchParams(window.location.search).get('month');
+      setSelectedMonth(asked && availableMonths.includes(asked) ? asked : startMonth);
+    }
+  }, [startMonth, selectedMonth, availableMonths]);
 
   // Load month data when selectedMonth changes
   useEffect(() => {
@@ -115,6 +120,7 @@ const StudentView = () => {
         </CorkBoard>
       </div>
 
+      <SeasonEffects effects={monthData.effects} right={GUTTER} />
       <BoardMinimap items={items} boardHeight={boardHeight} />
       <StickerBook items={items} monthKey={selectedMonth} />
 

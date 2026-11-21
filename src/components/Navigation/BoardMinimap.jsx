@@ -102,7 +102,7 @@ export const computeBoardHeight = (items = [], decorations = []) => {
     maxBottom = Math.max(maxBottom, (item.position?.y || 0) + h);
   });
   decorations.forEach((d) => {
-    maxBottom = Math.max(maxBottom, (d.position?.y || 0) + 150 * (d.scale || 1));
+    maxBottom = Math.max(maxBottom, (d.position?.y || 0) + 150 * (d.scale || 1) * (d.aspect || 1));
   });
   return maxBottom + 60;
 };

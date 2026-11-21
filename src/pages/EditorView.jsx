@@ -353,6 +353,7 @@ const EditorView = () => {
       customCss: source.customCss || '',
       backgroundImage: source.backgroundImage,
       borderImage: source.borderImage,
+      effects: source.effects,
     }));
     setSelectedItem(null);
   };
@@ -412,7 +413,7 @@ const EditorView = () => {
 
     // Check decorations
     monthData.decorations?.forEach(dec => {
-      const size = 150 * (dec.scale || 1);
+      const size = 150 * (dec.scale || 1) * (dec.aspect || 1);
       checkItem(dec.position.y, size);
     });
 

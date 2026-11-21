@@ -1,10 +1,35 @@
 // Decoration editor
 import React from 'react';
 import { Upload } from 'lucide-react';
+import { DECORATION_PACKS } from '../../../utils/decorationPacks';
 
 const DecorationEditor = ({ item, localState, setLocalState, onUpdate }) => {
   return (
     <div className="space-y-3">
+      {DECORATION_PACKS.map((pack) => (
+        <div key={pack.name}>
+          <label className="block text-sm font-medium mb-2">{pack.name} decorations</label>
+          <div className="grid grid-cols-4 gap-2">
+            {pack.items.map((d) => {
+              const url = `decorations/${d.file}`;
+              return (
+                <button
+                  key={d.file}
+                  title={d.file.split('/').pop().replace('.svg', '')}
+                  onClick={() => {
+                    setLocalState({ ...localState, imageUrl: url });
+                    onUpdate(item.id, { imageUrl: url, aspect: d.aspect || 1, ...(d.scale ? { scale: d.scale } : {}) });
+                  }}
+                  className={`aspect-square rounded-lg p-1 border ${localState.imageUrl === url ? 'border-blue-500 bg-blue-50' : 'border-amber-100 bg-amber-50 hover:bg-amber-100'}`}
+                >
+                  <img src={url} alt="" className="w-full h-full object-contain" />
+                </button>
+              );
+            })}
+          </div>
+        </div>
+      ))}
+
       <div>
         <label className="block text-sm font-medium mb-2">Upload Local Image</label>
         <label className="block">

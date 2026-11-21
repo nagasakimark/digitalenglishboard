@@ -90,6 +90,8 @@ export const publishMonths = async (months, tags, onProgress = () => {}) => {
       customCss: clean.customCss || '',
       ...(clean.backgroundImage ? { backgroundImage: clean.backgroundImage } : {}),
       ...(clean.borderImage ? { borderImage: clean.borderImage } : {}),
+      ...(clean.effects ? { effects: clean.effects } : {}),
+      ...(clean.effectIds?.length ? { effectIds: clean.effectIds } : {}),
     };
     files.push({ path: `public/data/months/${key}.json`, text: JSON.stringify(data, null, 2) + '\n' });
 
