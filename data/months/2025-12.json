@@ -307,7 +307,8 @@
       "content": {
         "title": "Christmas in London",
         "filename": "london.mp4",
-        "description": ""
+        "description": "",
+        "poster": "assets/videos/london.jpg"
       },
       "createdAt": "2025-12-07T04:46:43.772Z",
       "width": 260
@@ -329,7 +330,8 @@
       "content": {
         "title": "Christmas Formal Dinner",
         "filename": "christmasdinner.mp4",
-        "description": "イギリスの大学で、私は日本からの交換留学生をサポートしていました。これは私たちが一緒に参加したクリスマス・フォーマルディナーの様子を収めた動画です。いつか留学してみませんか？"
+        "description": "イギリスの大学で、私は日本からの交換留学生をサポートしていました。これは私たちが一緒に参加したクリスマス・フォーマルディナーの様子を収めた動画です。いつか留学してみませんか？",
+        "poster": "assets/videos/christmasdinner.jpg"
       },
       "createdAt": "2025-12-07T06:27:05.274Z"
     },
@@ -420,7 +422,8 @@
       "content": {
         "title": "Things to do in London",
         "filename": "london2.mp4",
-        "description": ""
+        "description": "",
+        "poster": "assets/videos/london2.jpg"
       },
       "createdAt": "2025-12-07T09:28:47.349Z",
       "width": 310
@@ -442,7 +445,8 @@
       "content": {
         "title": "Scotland Christmas VLOG",
         "filename": "edinburgh.mp4",
-        "description": ""
+        "description": "",
+        "poster": "assets/videos/edinburgh.jpg"
       },
       "createdAt": "2025-12-07T09:29:49.589Z",
       "width": 300
@@ -464,7 +468,8 @@
       "content": {
         "title": "Scotland Christmas vibes[ 雰囲気(スラング)]",
         "filename": "edinburgh2.mp4",
-        "description": ""
+        "description": "",
+        "poster": "assets/videos/edinburgh2.jpg"
       },
       "createdAt": "2025-12-07T09:31:59.893Z",
       "width": 320
@@ -507,7 +512,8 @@
       "content": {
         "title": "Grinch",
         "filename": "grinchmog.mp4",
-        "description": ""
+        "description": "",
+        "poster": "assets/videos/grinchmog.jpg"
       },
       "createdAt": "2025-12-07T09:35:56.618Z",
       "width": 270
@@ -550,7 +556,8 @@
       "content": {
         "title": "My favorite[一番好きな] Christmas market is Cologne, Germany[ドイツ]!",
         "filename": "market.mp4",
-        "description": "I took[撮った] this video 3 years ago[前] in Germany. The tree is so big! I love Christmas markets."
+        "description": "I took[撮った] this video 3 years ago[前] in Germany. The tree is so big! I love Christmas markets.",
+        "poster": "assets/videos/market.jpg"
       },
       "createdAt": "2025-12-07T10:14:10.663Z",
       "width": 270
