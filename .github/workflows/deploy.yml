@@ -1,0 +1,56 @@
+name: Deploy board
+
+# Every push to main (including "Publish" from the editor) rebuilds the site
+# and updates the gh-pages branch that GitHub Pages serves.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Build
+        env:
+          VITE_BASE_URL: /digitalenglishboard/
+        run: npx vite build
+
+      - name: Checkout gh-pages
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: site
+
+      - name: Update gh-pages
+        run: |
+          rsync -a --delete --exclude .git dist/ site/
+          cd site
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing changed"
+          else
+            git commit -m "Deploy ${GITHUB_SHA::7}"
+            git push origin gh-pages
+          fi

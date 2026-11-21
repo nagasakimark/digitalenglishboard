@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+editor/board-content.json
+*.log
+.env
+.vite

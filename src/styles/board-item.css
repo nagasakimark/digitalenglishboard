@@ -1,0 +1,94 @@
+/* Board Item Styles */
+.board-item {
+  cursor: pointer;
+}
+
+.board-item .item-content {
+  position: relative;
+  display: block;
+}
+
+.board-item .drag-handle {
+  cursor: move;
+}
+
+.board-item .drag-handle:hover {
+  cursor: grabbing;
+}
+
+/* Sticky Note Styles */
+.sticky-note {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2), 0 6px 20px rgba(0,0,0,0.15);
+}
+
+/* Pin shadow */
+.thumbtack::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 12px;
+  height: 4px;
+  background: rgba(0,0,0,0.3);
+  border-radius: 50%;
+  filter: blur(2px);
+}
+
+/* Mobile responsiveness for items */
+@media (max-width: 768px) {
+  .board-item {
+    transform: scale(0.9);
+    transform-origin: top left;
+  }
+  
+  .sticky-note {
+    width: 180px;
+    height: 180px;
+    padding: 15px;
+    font-size: 14px;
+  }
+  
+  .polaroid-card {
+    width: 160px;
+    min-height: 200px;
+  }
+  
+  .note-card {
+    width: 200px;
+    height: 140px;
+    padding: 15px;
+  }
+  
+  .link-preview {
+    width: 240px;
+  }
+}
+
+@media (max-width: 480px) {
+  .board-item {
+    transform: scale(0.8);
+  }
+  
+  .sticky-note {
+    width: 160px;
+    height: 160px;
+    padding: 12px;
+    font-size: 13px;
+  }
+  
+  .polaroid-card {
+    width: 140px;
+    min-height: 180px;
+  }
+  
+  .note-card {
+    width: 180px;
+    height: 120px;
+    padding: 12px;
+  }
+  
+  .link-preview {
+    width: 200px;
+  }
+}

@@ -1,0 +1,72 @@
+/* Base styling - EXACTLY as provided in original HTML */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cork-board-container {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  
+  /* Wooden border - from provided code */
+  border: 25px solid transparent;
+  border-image-slice: 27 27 27 27;
+  border-image-width: 25px 25px 25px 25px;
+  border-image-outset: 0px 0px 0px 0px;
+  border-image-repeat: stretch stretch;
+  border-image-source: url("../../assets/border.jpg");
+  
+  /* Allow vertical scrolling, prevent horizontal */
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.cork-board-surface {
+  /* Cork texture background - moved from container to surface */
+  background-image: url('../../assets/5.jpg');
+  background-repeat: repeat;
+  background-position: 0 0;
+  background-attachment: local; /* Ensures background scrolls with content */
+  min-height: 100%;
+}
+
+.cork-board-content {
+  position: relative;
+  /* Width and min-height set via inline styles for Chromebook resolution */
+  /* DO NOT add padding - it breaks positioning between Editor and Student views */
+  padding: 0;
+  margin: 0 auto; /* Center the board */
+}
+
+/* Performance Optimization: Disable pointer events while scrolling */
+.is-scrolling .board-item,
+.is-scrolling .board-item * {
+  pointer-events: none !important;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .cork-board-container {
+    border-width: 15px;
+    border-image-width: 15px 15px 15px 15px;
+  }
+  
+  .cork-board-content {
+    padding: 15px;
+    min-height: calc(100vh - 30px);
+  }
+}
+
+@media (max-width: 480px) {
+  .cork-board-container {
+    border-width: 10px;
+    border-image-width: 10px 10px 10px 10px;
+  }
+  
+  .cork-board-content {
+    padding: 10px;
+    min-height: calc(100vh - 20px);
+  }
+}

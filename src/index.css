@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import component styles */
+@import './styles/board-item.css';
+
+/* Global styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+/* Game animations (Snowball Catch etc.) */
+@keyframes deb-fall {
+  from { transform: translateY(0); }
+  to { transform: translateY(110vh); }
+}
+@keyframes deb-pop {
+  from { opacity: 1; transform: translate(-50%, 0) scale(1); }
+  to { opacity: 0; transform: translate(-50%, -50px) scale(1.4); }
+}
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-8px); }
+  75% { transform: translateX(8px); }
+}
